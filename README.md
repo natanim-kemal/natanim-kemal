@@ -262,7 +262,7 @@
       <td align="center">
         <a href="https://postgresql.org" target="_blank" rel="noreferrer">
           <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png?20080116191800"
+            src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_PostgreSQL.png"
             alt="postgresql"
             width="40"
             height="40"
