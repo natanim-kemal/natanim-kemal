@@ -43,15 +43,15 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
-            alt="java"
-            width="40"
-            height="40"
-          />
-        </a>
-      </td>
+      <a href="https://go.dev" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+          alt="go"
+          width="40"
+          height="40"
+        />
+      </a>
+     </td>
       <td align="center">
         <a
           href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
